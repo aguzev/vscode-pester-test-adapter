@@ -50,7 +50,7 @@
   },
   "extensionDependencies": [
     "hbenl.vscode-test-explorer",
-    "ms-vscode.powershell-preview"
+    "ms-vscode.powershell"
   ],
   "activationEvents": [
     "*"
